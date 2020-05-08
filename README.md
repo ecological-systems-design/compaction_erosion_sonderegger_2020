@@ -1,4 +1,4 @@
-Assessing impacts on the natural resource soil in Life Cycle Assessment – methods for compaction and water erosion
+# Assessing impacts on the natural resource soil in Life Cycle Assessment – methods for compaction and water erosion
 
 This code is related to the publication "Assessing impacts on the natural resource soil in Life Cycle Assessment – methods for compaction and water erosion" by Sonderegger, Pfister, and Hellweg (2020), available at https://www.sciencedirect.com/science/article/pii/S0048969718306211.
 
